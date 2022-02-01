@@ -1,0 +1,19 @@
+{
+  "name": "sequelizeapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
